@@ -1,0 +1,5 @@
+Your SQL command:
+
+--1) Listar todos os  médicos da tabelas médicos, com todos os dados (todas as colunas da tabela devem ser exibidas);
+
+select * from medicos;
